@@ -1,0 +1,16 @@
+#ifndef C_SOCKET_H
+#define C_SOCKET_H
+#include <WinSock2.h>
+#include <socketapi.h>
+class CLogicSocket
+{
+public:
+    CLogicSocket();
+    virtual ~CLogicSocket();
+    public:
+      void InitConnection();
+    
+     
+};
+
+#endif // C_SOCKET_H
