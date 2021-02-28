@@ -1,4 +1,0 @@
-#ifndef PTHREADPOOL_H
-#define PTHREADPOOL_H
-
-#endif // PTHREADPOOL_H
